@@ -16,3 +16,4 @@ To start mining, use the CLI like this:
 tpm - transactions per minute
 fee - fee per transaction in micro ALGO
 ```
+# Command Line Interface for mining Orange
